@@ -1,2 +1,2 @@
 # newtonimeetod
-Paar ülesannet kuidas newtoni meetodiga funktsiooni lähendada
+Paar ülesannet kuidas newtoni meetodiga võrrandeid lahendada
